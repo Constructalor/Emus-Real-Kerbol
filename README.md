@@ -36,3 +36,7 @@ Delete the `StockVolumetricClouds` folder.
 
 #### Scatterer
 Delete the `StockScattererConfigs` folder.
+
+### Compatibility
+
+ERK compatibility with other planet mods has not been tested yet.
