@@ -7,6 +7,11 @@ ERK will also rebalance the stock parts to work with real scale so you don't hav
 
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
 
+## Contributors
+
+Emu (Mod author)
+Gabo (Part reconfig)
+
 ## Installation Guide
 
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
