@@ -16,6 +16,6 @@ ERK is currently very early in development. You can try the mod in its unfinishe
    - [Niako's Kopernicus Utilities](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
    - [Vertex Color Map Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases)
 2. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
-3. Download ERK by cloning the repository and merge the GameData folder with your GameData folder.
+3. Download ERK by cloning the repository and merging the `GameData` folder with your `GameData` folder.
 
 ERK should be played on a fresh save.
