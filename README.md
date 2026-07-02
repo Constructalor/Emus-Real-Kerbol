@@ -9,6 +9,8 @@ ERK is currently very early in development. You can try the mod in its unfinishe
 
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
 
+### Install Manually
+
 1. Download the mod's dependencies -
    - [Kopernicus](https://github.com/kopernicus/kopernicus/releases)
    - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
@@ -19,3 +21,16 @@ ERK is currently very early in development. You can try the mod in its unfinishe
 3. Download ERK by cloning the repository and merging the `GameData` folder with your `GameData` folder.
 
 ERK should be played on a fresh save.
+
+### Visual Mods
+
+ERK is compatible with any visual mods that do not alter the stock planet textures, however some require extra steps to work with ERK.
+
+#### Parallax Continued
+Delete the `Parallax_StockPlanetTextures`, `Parallax_StockScatterTextures` and `Parallax_StockTerrainTextures` folders (and the `Parallax_LifelessEvePatch` folder if installed).
+
+#### EVE Volumetric Clouds
+Delete the `StockVolumetricClouds` folder.
+
+#### Scatterer
+Delete the `StockScattererConfigs` folder.
