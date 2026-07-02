@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Track .dds files for Git LFS
+*.dds filter=lfs diff=lfs merge=lfs -text
