@@ -3,6 +3,8 @@ Emu's Real Kerbol is a mod for Kerbal Space Program that aims to revamp the Kerb
 
 The stock system and vast majority of planet mods are designed to work at 10% of real scale. When scaled up, the planets become flattened and surface features lose their structure and intensity. ERK is designed to work at 100% real scale, utilizing much higher resolution textures than the standard for planet mods.
 
+ERK will also rebalance the stock parts to work with real scale so you don't have to download extra mods if you don't want to.
+
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
 
 ## Installation Guide
