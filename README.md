@@ -7,6 +7,11 @@ ERK will also rebalance the stock parts to work with real scale so you don't hav
 
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
 
+## Contributors
+
+Emu (Mod author)
+Gabo (Part reconfig)
+
 ## Installation Guide
 
 ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
@@ -20,7 +25,7 @@ ERK is currently very early in development. You can try the mod in its unfinishe
    - [Niako's Kopernicus Utilities](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
    - [Vertex Color Map Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases)
 2. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
-3. Download ERK by cloning the repository and merging the `GameData` folder with your `GameData` folder.
+3. Download ERK by [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop&platform=windows) and merging the `GameData` folder with your `GameData` folder.
 
 ERK should be played on a fresh save.
 
