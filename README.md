@@ -10,6 +10,7 @@ ERK is currently very early in development. You can try the mod in its unfinishe
 ## Contributors
 
 Emu (Mod author)
+
 Gabo (Part reconfig)
 
 ## Installation Guide
