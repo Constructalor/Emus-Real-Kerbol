@@ -28,7 +28,8 @@ ERK is currently very early in development. You can try the mod in its unfinishe
    - [SMURFF](https://github.com/Kerbas-ad-astra/SMURFF)
    - [Rational Resources](https://github.com/JadeOfMaar/RationalResources)
 2. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
-3. Download ERK by [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop&platform=windows) and merging the `GameData` folder with your `GameData` folder.
+3. [Download the latest release]([https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop&platform=windows](https://github.com/Constructalor/Emus-Real-Kerbol/releases))
+4. Extract ERK’s `.zip` and place its folders into your `GameData` directory.
 
 ERK should be played on a fresh save.
 
@@ -45,7 +46,17 @@ Delete the `StockVolumetricClouds` folder.
 #### Scatterer
 Delete the `StockScattererConfigs` folder.
 
+### Soundtrack
+
+ERK has its own custom soundtrack that works with Soundtrack Editor Forked.
+1. Download [Soundtrack Editor Forked](https://forum.kerbalspaceprogram.com/topic/191467-112x-soundtrack-editor-forked/) and its dependencies
+2. Follow the installation instructions on the forum page
+3. Remove the `Music` and `Playlists` folders
+4. Place the ERK `Music` and `Playlists` folders into your KSP directory
+
 ### Compatibility
+
+ERK is compatible with TiltEm Continued.
 
 ERK compatibility with other planet mods has not been tested yet.
 
