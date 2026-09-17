@@ -48,3 +48,12 @@ Delete the `StockScattererConfigs` folder.
 ### Compatibility
 
 ERK compatibility with other planet mods has not been tested yet.
+
+
+### BDB Compatibility
+if you are using BDB please do the following for adequate Smurff compat
+1) go in the bdb game data
+2) Gamedata/Bluedog_DB/Compatibility/Rescale
+3) you should see a file called blueSmurff
+4) in that file modify the line highlighted to false <img width="1314" height="706" alt="image" src="https://github.com/user-attachments/assets/d41f3ad1-b5c6-4c03-a2a0-6336d8542074" />
+
