@@ -25,6 +25,8 @@ ERK is currently very early in development. You can try the mod in its unfinishe
    - [Kopernicus Expansion](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/)
    - [Niako's Kopernicus Utilities](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
    - [Vertex Color Map Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases)
+   - [SMURFF](https://github.com/Kerbas-ad-astra/SMURFF)
+   - [Rational Resources](https://github.com/JadeOfMaar/RationalResources)
 2. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
 3. Download ERK by [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop&platform=windows) and merging the `GameData` folder with your `GameData` folder.
 
