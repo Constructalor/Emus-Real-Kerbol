@@ -15,7 +15,7 @@ Gabo (Part reconfig)
 
 ## Installation Guide
 
-ERK is currently very early in development. You can try the mod in its unfinished state by downloading the GitHub repository. Be warned that ERK has some bugs and is missing key features, so play at your own risk.
+ERK is currently in early access. Features are being added incrementally with updates.
 
 ### Install Manually
 
